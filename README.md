@@ -162,19 +162,22 @@ Full Stack Development
 
 <p align="center">
   <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=LucasRoAlves&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-    height="180"
-  />
-
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LucasRoAlves&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    src="https://streak-stats.demolab.com/?user=LucasRoAlves&theme=tokyonight&hide_border=true"
+    alt="LucasRoAlves GitHub Streak"
     height="180"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=LucasRoAlves&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api?username=LucasRoAlves&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="LucasRoAlves GitHub Stats"
+    height="180"
+  />
+
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LucasRoAlves&layout=compact&theme=tokyonight&hide_border=true"
+    alt="LucasRoAlves Top Languages"
     height="180"
   />
 </p>
