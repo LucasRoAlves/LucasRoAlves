@@ -28,6 +28,14 @@ I'm constantly learning, building projects, and turning ideas into practical sol
 
 ---
 
+### 🌐 Portfólio
+
+<a href="https://lucasroalves.github.io/Lucas-Alves-Portfolio/">
+  <img src="https://img.shields.io/badge/🚀%20ACESSAR%20PORTFÓLIO-000?style=for-the-badge" alt="Acessar Portfólio">
+</a>
+
+---
+
 ## 🧠 What I'm focused on
 
 * 💻 Full Stack Web Development
