@@ -158,17 +158,24 @@ Full Stack Development
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<p align="left">
+<p align="center">
   <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=LucasRoAlves&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=LucasRoAlves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
 
   <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LucasRoAlves&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRoAlves&layout=compact&theme=tokyonight&langs_count=8"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=LucasRoAlves&theme=tokyonight&hide_border=true"
+    height="180"
   />
 </p>
 
