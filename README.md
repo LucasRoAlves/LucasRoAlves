@@ -1,3 +1,16 @@
+<div align="right">
+
+<a href="README.pt-BR.md">
+  <img src="https://img.shields.io/badge/🇧🇷%20PT--BR-FFFFFF?style=for-the-badge&labelColor=0D1117" alt="Português">
+</a>
+<a href="README.md">
+  <img src="https://img.shields.io/badge/🇺🇸%20EN-161B22?style=for-the-badge&labelColor=0D1117" alt="English">
+</a>
+
+</div>
+
+<br>
+
 # 👋 Hi, I'm Lucas Rodrigo
 
 🚀 **Full Stack Developer | AI & Software Engineering**
