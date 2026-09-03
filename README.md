@@ -195,7 +195,7 @@ Full Stack Development
     alt="LucasRoAlves GitHub Stats"
     height="180"
   />
-
+  &nbsp;&nbsp;
   <img
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LucasRoAlves&layout=compact&theme=tokyonight&hide_border=true"
     alt="LucasRoAlves Top Languages"
